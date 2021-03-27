@@ -1,0 +1,130 @@
+.one{
+    background-color:greenyellow;
+    display: flex;
+    justify-content: space-between ;
+    border-radius:  20px;
+
+}
+
+.two{
+    background-color:orchid;
+    display: flex;
+    justify-content: space-between ;
+    border-radius:  20px;
+
+}
+
+.three{
+    background-color:cornsilk;
+    /* display: flex;
+    justify-content: space-between ; */
+    border-radius:  20px;
+
+}
+
+
+.fourth{
+    background-color: red;
+    display: flex;
+    justify-content: space-evenly ; 
+    border: 2px solid red;
+    border-radius: 50px;
+}
+
+.tenth{
+    background-color: red;
+    display: flex;
+    justify-content: space-evenly ; 
+    border: 2px solid red;
+    border-radius: 50px;
+}
+
+
+.fifth{
+    background-color: wheat;
+    /* display: flex;
+    justify-content: space-evenly ; */
+    border-radius:  20px;
+    background-color: wheat;
+    width: 310px;
+    font-family: fantasy;
+}
+
+.seventh{
+    background-color: wheat;
+    /* display: flex;
+    justify-content: space-evenly ; */
+    border-radius:  20px;
+    background-color: wheat;
+    width: 310px;
+    font-family: fantasy;
+
+}
+
+.eleventh{
+    background-color: wheat;
+    /* display: flex;
+    justify-content: space-evenly ; */
+    border-radius:  20px;
+    background-color: wheat;
+    width: 310px;
+    font-family: fantasy;
+
+}
+
+.thirteen{
+    background-color: wheat;
+    /* display: flex;
+    justify-content: space-evenly ; */
+    border-radius:  20px;
+    background-color: wheat;
+    width: 310px;
+    font-family: fantasy;
+
+}
+
+
+
+.sixth{
+    /* background-color: fuchsia;
+     display: flex;
+    justify-content: space-evenly ; */
+    border-radius:  20px;
+    background-color: fuchsia;
+    width: 310px;
+    font-family: fantasy;
+
+}
+
+.eight{
+    /*background-color: fuchsia;
+     display: flex;
+    justify-content: space-evenly ; */
+    border-radius:  20px;
+    background-color: fuchsia;
+    width: 310px;
+    font-family: fantasy;
+
+}
+
+.ninth{
+    /* background-color: fuchsia;
+     display: flex;
+    justify-content: space-evenly ; */
+    border-radius:  20px;
+    background-color: fuchsia;
+    width: 310px;
+    font-family: fantasy;
+
+}
+
+.twelve{
+    /* background-color: fuchsia;
+     display: flex;
+    justify-content: space-evenly ; */
+    border-radius:  20px;
+    background-color: fuchsia;
+    width: 310px;
+    font-family: fantasy;
+
+}
